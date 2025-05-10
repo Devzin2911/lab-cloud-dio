@@ -29,4 +29,47 @@ A Confiabilidade garante a consistência dos seus dados quando e onde eles forem
 A Previsibilidade ajuda você a gerenciar seus recursos, custos para que se tenha um aproveitamento
 melhor do ambiente Cloud
 
+
+
+## Criando Máquinas Virtuais na Azure
+
+IaaS - Infraestrutura como Serviço
+
+IaaS → Servidores e Armazenamento, Firewalls e Segurança de Rede e prédio físico do data center
+
+Exemplo: Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+
+PaaS - Plataforma como Serviço
+
+PaaS → Servidores e Armazenamento, Firewalls e Segurança de Rede,  prédio físico do data center, Sistemas operacionais, Ferramentas de desenvolvimento, análise de negócios de 
+gerenciamento de banco de dados.
+
+Exemplo: Fornece um ambiente para criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento de infraestrutura subjacente.
+
+SaaS - Software como Serviço
+
+SaaS→ Servidores e Armazenamento, Firewalls e Segurança de Rede,  prédio físico do data center, Sistemas operacionais, Ferramentas de desenvolvimento, análise de negócios de 
+gerenciamento de banco de dados, aplicativos/apps hospedados.
+
+ Exemplo: Os usuários se conectam e usam aplicativos com base em nuvem pela internet, tipo: Microsoft Office 365, email e calendários.
+
+Modelo de Responsabilidade Compartilhada
+
+Comparação de Serviço em Nuvem
+
+IaaS:
+
+O serviço de nuvem mais flexível.
+Você confiura e gerencia o hardware para seu aplicativo.
+
+PaaS
+
+Focado no desenvolvimento de aplicativos
+O gerenciamento de plataforma é realizado pelo provedor de nuvem.
+
+SaaS
+
+Modelo de preço de pagamento conforme o uso.
+Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
 A Segurança garante a defesa completa contra todo tipo de ataque cibernético que possa sofrer
